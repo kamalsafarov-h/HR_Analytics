@@ -1,4 +1,9 @@
 # HR_Analytics
+Here is data below
+[Messy_HR_Dataset_Detailed.csv](https://github.com/user-attachments/files/25500114/Messy_HR_Dataset_Detailed.csv)
+It is my codes:
+[SQLQuery1.sql](https://github.com/user-attachments/files/25500112/SQLQuery1.sql)
+
 This data consists of HR_Analytics practice and analysis of employees
 Tool: SQL Server
 You can see important analysis of data based on HR Analytics such as retention, employees performance, their trainings analysis and so on.
