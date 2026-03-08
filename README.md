@@ -1,4 +1,4 @@
-# HR_Analytics
+# HR_Analytics_with_SQL
 Here is data below
 [Messy_HR_Dataset_Detailed.csv](https://github.com/user-attachments/files/25500114/Messy_HR_Dataset_Detailed.csv)
 It is my codes:
